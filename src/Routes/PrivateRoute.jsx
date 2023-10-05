@@ -1,10 +1,9 @@
+import { useEffect } from "react";
 import { useSelector } from "react-redux";
 import { Navigate } from "react-router-dom";
 
 const PrivateRoute = ({ children }) => {
-  const isAuth = useSelector((store) => store.authReducer.isAuth);
-
-  console.log(isAuth);
+ let isAuth = useSelector((store) => store.authReducer.isAuth);
 
   if (isAuth) {
     return children;

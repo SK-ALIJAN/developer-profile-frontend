@@ -1,8 +1,8 @@
 import { logoutUser, userLogin, userSignup } from "../actionType";
 
 let initialState = {
-  data:  {},
-  isAuth: false,
+  data: {},
+  isAuth: JSON.parse(localStorage.getItem("loggin")) || false,
 };
 
 const authReducer = (state = initialState, { type, payload }) => {

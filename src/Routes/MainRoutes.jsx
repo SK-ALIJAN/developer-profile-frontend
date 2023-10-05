@@ -6,7 +6,7 @@ import JobListingsPage from "../components/JobListingsPage";
 import JobDetailPage from "../components/JobDetailPage";
 import ApplicationFormPage from "../components/ApplicationFormPage";
 import SuccessPage from "../components/SuccessPage";
-import Authentication from "../components/Authentication";
+import Authentication from "../components/authentication/Authentication";
 
 const MainRoutes = () => {
   return (
