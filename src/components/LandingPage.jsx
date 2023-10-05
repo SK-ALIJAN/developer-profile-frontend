@@ -28,7 +28,7 @@ const LandingPage = () => {
           <img src={auth} alt="" />
 
           <div>
-            <h2>Welcome {signupData.name} , to job portal </h2>
+            <h2>Welcome to job portal, {signupData.name} </h2>
             <p>Please set your preference</p>
             <select onChange={change}>
               <option value="">Select your programming language</option>

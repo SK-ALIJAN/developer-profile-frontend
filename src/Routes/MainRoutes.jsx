@@ -37,7 +37,7 @@ const MainRoutes = () => {
         }
       />
       <Route
-        path="/application-form/:jobId"
+        path="/application-form"
         element={
           <PrivateRoute>
             <ApplicationFormPage />

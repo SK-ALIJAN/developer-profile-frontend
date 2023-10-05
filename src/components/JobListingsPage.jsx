@@ -8,9 +8,11 @@ import { list } from "../data";
 const JobListingsPage = () => {
   let { data } = useSelector((store) => store.reducer);
   const navigate = useNavigate();
-  const [searchparam] = useSearchParams();
 
-  let handleClick = (res) => {};
+  let handleClick = (res) => {
+    localStorage.setItem("clicked", JSON.stringify(res));
+    navigate(`/job-detail/:${res.category}`);
+  };
 
   return (
     <DIV>
