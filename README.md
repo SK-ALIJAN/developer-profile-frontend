@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+## developer profile (Job finding app)
+<br>
+Explore this elegant React application that empowers you to discover job opportunities tailored to your programming expertise. Immerse yourself in a seamless experience: select a job from your preferred company, effortlessly provide your details, and apply with ease. It's a user-friendly journey to your dream job    <br><br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/c43c1f98-23cc-4301-bf63-1f202d6866de"></p> 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+****************************************************************************************
+Deployed link:-
+# (https://developer-profile-frontend.vercel.app/)
 
-In the project directory, you can run:
+It is individual project made in 1 days 
 
-### `npm start`
+****************************************************************************************
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Tech-Stack Used:-
+1. React 
+2. Redux
+3. ApplyMiddleware
+4. Css (Styled-components)
+5. LocalStorage
+6. Formik and Yup
+******************************************************************************************
+## Preview of this app <br>
+****************************************************************************************
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/04e177da-d726-4682-bdf3-9f773ef88158"></p> <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/b963e14c-e24a-4315-a746-abf53a15a24f"></p> <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/2559549d-5752-4922-a625-5d03359306ca"></p> <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/3e5cac82-9d7a-4523-8368-4b5d5ab3bcf5"></p> <br>
+<p align="center"><img src="https://github.com/SK-ALIJAN/developer-profile-frontend/assets/106768235/9747cdab-28fc-48c7-a972-643015b917d7"></p> <br>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+****************************************************************************************
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alijan786/)
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Terms and Conditions for using this project:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Deployment Restrictions: You are strictly prohibited from deploying any webpage from this project on any platform without explicit permission from the respective owners or rights holders.
 
-### `npm run eject`
+Personal Learning Use: You may use this project solely for personal learning purposes. It is intended to facilitate your understanding and development skills.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Organizational Training: If you are an organization planning to utilize this project for training purposes, you must obtain permission from the creators (specifically Sk Alijan) before proceeding.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Misuse Disclaimer: The creators of this project, namely Sk Alijan, cannot be held responsible for any misuse or unauthorized use of the webpages by individuals from any country.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Self-Risk Disclaimer: If you choose to misuse or publish the webpages from this project without permission, you do so entirely at your own risk. The creators will not be liable for any consequences.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Please note that any unauthorized use, distribution, or deployment of this project is a violation of these terms and may be subject to legal consequences.
